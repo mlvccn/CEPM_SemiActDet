@@ -9,6 +9,7 @@ Video Action Detection (VAD) aims to perform spatiotemporal localization of huma
 <p align="center">
 <img src="assets/framework.png" alt="CEPM Framework"/>
 </p>
+
 ## 🚀 Installation
 
 - Create conda environment:
